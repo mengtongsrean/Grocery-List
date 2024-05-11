@@ -55,4 +55,3 @@ function clearInputField() {
 function clearGroceryListField() {
     groceryListEl.innerHTML = "";
 }
-
