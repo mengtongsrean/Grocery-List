@@ -1,6 +1,6 @@
-# Grocery-List 
+# Grocery-List (Web-based App)
 
-a grocery-list program lets us save item list to database and display them anywhere, this is a part of my Javascript self-learning.
+A web-based grocery list app where users can add or remove items dynamically. HTML and CSS are used for the interface, while JavaScript handles real-time data with Firebase. Items are added via an input field and "Add to Cart" button, and removed by double-clicking
 
 # Front-End
 
@@ -8,6 +8,7 @@ a grocery-list program lets us save item list to database and display them anywh
 
 # Back-End
 
+- Javascript
 - Google Firebase: a noSQL real-time database, as any changes will reflect to the front-end instantly.
 
 # Deploy to Netify
